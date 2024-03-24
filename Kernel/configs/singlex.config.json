@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Sumsung-Fold3-KORA",
-      "repo": "https://github.com/z01-ahaufun/android_kernel_SM-F926N_KOR_12.git",
-      "branch": "main",
+      "repo": "https://github.com/z01-ahaufun/android_kernel_f926n_14",
+      "branch": "master",
       "device": "singlex",
       "defconfig": "vendor/q2q_kor_singlex_defconfig"
     },
