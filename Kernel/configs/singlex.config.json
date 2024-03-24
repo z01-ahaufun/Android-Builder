@@ -9,8 +9,8 @@
     },
     "toolchains": [
       {
-        "repo": "https://github.com/LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b",
-        "branch": "lineage-20.0",
+        "repo": "https://github.com/SN-Abdullah-Al-Noman/llvm-arm-toolchain-ship-10.0",
+        "branch": "main",
         "name": "clang",
         "binaryEnv": [
           "bin"
